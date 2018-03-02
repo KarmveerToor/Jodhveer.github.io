@@ -7,13 +7,20 @@
        <h1>Current Sporting Events</h1>
        <hr>
      <h3>-The Winter Olympics</h3>
-     <p>The Olympics are over and the country with the most medals and    		most golds ended up being Norway. Followed by Germany and then 		  Canada.  unfortunately Canada was eliminated by Germany in Mens ice hockey in the semi-finals and then then got beat by Russia later on       for the gold medal. In womens ice hockey America stopped our 20           year gold medal streak in womens ice hockey.</p>
+     <p>The Olympics are over and the country with the most medals and    		most golds ended up being Norway. Followed by Germany and then 		  Canada.  unfortunately Canada was eliminated by Germany in Mens        ice hockey in the semi-finals and then then got beat by Russia          later on for the gold medal. In womens ice hockey America              stopped our 20 year gold medal streak in womens ice hockey.</p>
      <h3>-The NBA</h3>
      <p>The NBA finals are almost exactly 2 months away from today, and 
-     the eams that are going to make the finals are clear alread. The          Toronto Raptors are on top in the eastern confrence followed by the Boston Celtics and then the Cleveland Cavaliers.In the Western            confrence The Houston Rockets lead followed closely be The         Golden State Warriors and then the Minnnesota Timber Wolves.</p>
+     the teams that are going to make the finals are clear alread. The      Toronto Raptors are on top in the eastern confrence followed by        the Boston Celtics and then the Cleveland Cavaliers.In the              Western conference The Houston Rockets lead followed closely be        The Golden State Warriors and then the Minnesota Timber Wolves.        </p>
      <h3>-World Football News(Soccer)</h3>
-    <p>Lucka Modric, A very popular professional footballer who plays        for Real Madrid Could be facing jaitime for lying t a croatian          court. Also in the news Zlatan Ibrahimović also a very popular          footballer as well is trying to leave his team as of present            Manchester united.</p>
+    <p>Lucka Modric, A very popular professional footballer who plays          for Real Madrid Could be facing jail time for lying to a                croatian court. Also in the news Zlatan Ibrahimović also a very        popular footballer as well is trying to leave his team as of            present Manchester united.</p>
   <p> Those are the current events for now and there will be no updates.</p>
   </body>
-  
+  <style>
+	h1 {color:white;}
+    h3 {color:white;}
+	p {color:white;}
+    body {background-color: grey;}
+    html {border-style: double;}
+    html {border-color: white;}
+    html {border-width: 16px;}
   </html>
