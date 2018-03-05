@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-  <html>
+<html>
     <head>
       <title>Current Sporting Events</title>
         </head>
@@ -23,4 +23,4 @@
     html {border-style: double;}
     html {border-color: white;}
     html {border-width: 16px;}
-  </html> 
+</html> 
